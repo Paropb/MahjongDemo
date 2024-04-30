@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "l_obj_button_discard_card",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"l_obj_button_parent","path":"objects/l_obj_button_parent/l_obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/l_obj_button_parent/l_obj_button_parent.yy",},"value":"DISCARD",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"l_obj_button_parent","path":"objects/l_obj_button_parent/l_obj_button_parent.yy",},"propertyId":{"name":"according_gamestate","path":"objects/l_obj_button_parent/l_obj_button_parent.yy",},"value":"discard",},
+  ],
+  "parent": {
+    "name": "UI",
+    "path": "folders/lambert/UI.yy",
+  },
+  "parentObjectId": {
+    "name": "l_obj_button_parent",
+    "path": "objects/l_obj_button_parent/l_obj_button_parent.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_button2",
+    "path": "sprites/spr_button2/spr_button2.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}

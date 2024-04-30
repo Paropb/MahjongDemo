@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "l_obj_shop_panel",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"l_obj_panel","path":"objects/l_obj_panel/l_obj_panel.yy",},"propertyId":{"name":"m_depth","path":"objects/l_obj_panel/l_obj_panel.yy",},"value":"-10010",},
+  ],
+  "parent": {
+    "name": "UI",
+    "path": "folders/lambert/UI.yy",
+  },
+  "parentObjectId": {
+    "name": "l_obj_panel",
+    "path": "objects/l_obj_panel/l_obj_panel.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "spr_panel_tile",
+    "path": "sprites/spr_panel_tile/spr_panel_tile.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
